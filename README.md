@@ -1,42 +1,42 @@
 # Climate-Change-Data-Analysis
-## Project Overview
-This project analyzes global climate change indicators such as temperature variation, CO2 emissions, and environmental trends using data analysis techniques.
+## 📌 Project Overview
+This project analyzes climate change data to study global temperature trends and environmental changes over time. The objective is to explore climate patterns and understand long-term temperature variations using data analysis techniques.
 
-## Objectives
-- Study global temperature trends
-- Analyze the relationship between CO2 emissions and temperature rise
-- Identify long-term climate patterns
-- Visualize climate change impact
-
-## Tools & Technologies
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-## Dataset
-The dataset contains:
-- Year
-- Temperature anomalies
-- CO2 emissions
+## 📊 Dataset
+The dataset contains historical climate records including:
+- Global temperature
+- Yearly observations
 - Environmental indicators
 
-## Project Steps
+## 🛠 Tools & Technologies
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 🔍 Project Workflow
 1. Data Cleaning
-2. Exploratory Data Analysis
-3. Visualization of trends
-4. Interpretation of environmental patterns
+2. Handling Missing Values
+3. Exploratory Data Analysis
+4. Visualization of Climate Trends
+5. Observations and Insights
 
-## Key Insights
-- Global temperatures have steadily increased over decades.
-- CO2 emissions show a strong correlation with temperature rise.
-- Climate change indicators have intensified in recent years.
+## 📈 Visualizations
+- Temperature trend graphs
+- Distribution plots
+- Climate trend line charts
+- Correlation heatmaps
 
-## Files Included
-- `climate_analysis.ipynb`
-- `climate_dataset.csv`
-- `project_report.pdf`
+## 🎯 Key Insights
+- Global temperatures have shown a steady increase over the years.
+- Climate trends indicate long-term warming patterns.
+
+## 🚀 How to Run
+```bash
+pip install pandas numpy matplotlib seaborn
+jupyter notebook
 
 ## Author
 Rachit Khandelwal
